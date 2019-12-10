@@ -1,0 +1,20 @@
+{
+  "database": {
+    "Dialect": "mysql",
+    "Database": "as",
+    "User": "as",
+    "Password": "OY34tkM2w",
+    "Charset": "utf8mb4",
+    "Host": "10.10.33.14",
+    "Port": 3306,
+    "MaxIdleConnNum": 5,
+    "MaxOpenConnNum": 10
+  },
+  "domain": {
+  },
+  "log": {
+    "Dir": "/tmp",
+    "Filename": "/app.log"
+  },
+  "systemSource": "AS"
+}

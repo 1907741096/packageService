@@ -1,0 +1,20 @@
+{
+  "database": {
+    "Dialect": "mysql",
+    "Database": "as",
+    "User": "root",
+    "Password": "root",
+    "Charset": "utf8mb4",
+    "Host": "127.0.0.1",
+    "Port": 3306,
+    "MaxIdleConnNum": 5,
+    "MaxOpenConnNum": 10
+  },
+  "domain": {
+  },
+  "log": {
+    "Dir": "/Users/mac/Go/src/AS",
+    "Filename": "/runtime/app.log"
+  },
+  "systemSource": "AS"
+}
